@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+loja.wella.com.br	TRUE	/	FALSE	1999999999	VTEXSC	sc=1
+loja.wella.com.br	TRUE	/	FALSE	1999999999	ISSMB	ScreenMedia=0&UserAcceptMobile=False
+loja.wella.com.br	TRUE	/	FALSE	1999999999	SGTS	B90C09532935BE82E2814287D2A14A02
+
